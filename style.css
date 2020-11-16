@@ -1,0 +1,56 @@
+body{
+    font-family: 'Syne Mono', monospace;
+    background:seagreen;
+}
+.header_div{
+    background:white;
+    color:darkblue;
+
+}
+.header_div img{
+    width:100px;
+
+}
+.main_div{
+    background:lightseagreen;
+    padding:10px;
+    margin-top:15px;
+    border:3px solid white;
+
+
+}
+#camera,#result{
+    border:2px solid white;
+    width:310px;
+    height:300px;
+    box-shadow:5px 5px 18px blue;
+
+}
+.main_div button{
+    width:310px;
+    font-size:16px;
+    box-shadow:5px 5px 18px blue;
+    border:1px solid;
+
+}
+.footer_div{
+    margin-bottom:50px;
+}
+.footer_div h4{
+   background:rgb(76, 190, 125);
+   border-radius:10px;
+   padding:5px;
+   box-shadow: 5px 5px 18px white;
+}
+.footer_div img{
+    width:70px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:whitesmoke;
+    bottom:0;
+    width:100%;
+    background-color:blue ;
+    line-height:3;
+    text-align:center;
+}
